@@ -38,8 +38,9 @@ ul {
 li {
     display: inline-block;
     color: #777;
-    padding: .25em;
+    padding: .15em;
     margin: auto;
+    font-family: Source Sans Pro;
 }
 hr {
     color: #777;
@@ -77,4 +78,10 @@ span {
 }
 .date {
     font-family: Source Sans Pro;
+}
+footer a {
+    color: #777;
+    text-decoration: none;
+    padding: 0.7em;
+    margin-left: 3em;
 }
