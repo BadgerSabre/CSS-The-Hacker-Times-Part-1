@@ -51,6 +51,9 @@ a{
 nav {
     border-top: 2px solid #777;
     border-bottom: 2px solid #777;
+    position: sticky;
+    top: 0px;
+    background-color: white;
 }
 #article-one {
     display: inline-block;
@@ -71,4 +74,7 @@ span {
     margin: auto;
     padding: .25em .25em .25em .75em;
     justify-content: center;
+}
+.date {
+    font-family: Source Sans Pro;
 }
